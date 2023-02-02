@@ -9,12 +9,14 @@ export default function About (){
                 <h4>Frontend Developer</h4>
             </div>
             <div className="about-button-div">
-                <button type="button" className="email-button">
+                <a href="mailto:pinak.nayak@gmail.com" className="email-btn">Email</a>
+                <a href="https://www.linkedin.com/in/npinak/" className="linkedin-btn">LinkedIn</a>
+                {/* <button type="button" className="email-button">
                     Email
                 </button>
                 <button type="button" className="linkedin-button">
                     LinkedIn
-                </button>
+                </button> */}
             </div>
             <div className="about-about-div">
                 <h5>About</h5>
