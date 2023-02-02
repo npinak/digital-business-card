@@ -53,6 +53,8 @@ body{
   margin-top: 10%;
   border-top-right-radius: 25px;
   border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
 
 }
 
@@ -110,7 +112,7 @@ body{
 .email-btn{
   background-color: #fff;
   font-size: 12px;
-  font-weight: 500;
+  font-weight: 700;
   color:black;
   border-radius: 5000px;
   transition: all 0.3s;
@@ -128,7 +130,7 @@ body{
 .linkedin-btn{
   background-color: #5093E2;
   font-size: 12px;
-  font-weight: 500;
+  font-weight: 700;
   color: #FFFFFF;
   border-radius: 5000px;
   transition: all 0.3s;
